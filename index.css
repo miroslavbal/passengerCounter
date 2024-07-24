@@ -7,7 +7,8 @@ body {
 }
 
 .container {
-    background: white;
+    align: center;
+    background: yellow;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
