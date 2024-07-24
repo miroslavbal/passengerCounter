@@ -7,9 +7,8 @@ body {
 }
 
 .container {
-    align: center;
-    background: yellow;
-    max-width: 80%;
+    background: Cornsilk;
+    max-width: 50%;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
