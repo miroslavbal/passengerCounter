@@ -1,5 +1,5 @@
 body {
-    background-image: url("station.jpeg");
+    background: url(station.jpg) repeat 0 0;
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
